@@ -1,0 +1,39 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bukulapak.com" resolutions="1x" timestamp="1480449725248">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="373760446" ref="index"/>
+    <file name="konten-toko.css" crc="112180619" ref="konten-toko"/>
+    <file name="register.css" crc="3871509128" ref="register"/>
+    <file name="login.css" crc="112180619" ref="login"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:login:register:konten-toko"/>
+    <file name="museutils.js" crc="183364071" ref="index:login:register:konten-toko"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:login:register:konten-toko"/>
+    <file name="webpro.js" crc="3803554875" ref="index:register"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:register"/>
+    <file name="form_check.php" crc="277267350" ref="register"/>
+    <file name="form_throttle.php" crc="3908387251" ref="register"/>
+    <file name="form_process.php" crc="24249335" ref="register"/>
+    <file name="form-u393.php" crc="3899748824" ref="register"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="161646264" seo="true" ref="index"/>
+    <file name="agnon-librery-1.jpg" crc="157721944" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="c97ef8b51e224cdb62b197edc4519a2f.jpg" crc="437721595" seo="true" ref="index"/>
+    <file name="library6.jpg" crc="4043976404" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u405-17.png" crc="3818337640" ref="register"/>
+    <file name="u405-17-r.png" crc="24909824" ref="register"/>
+    <file name="u405-17-m.png" crc="270691091" ref="register"/>
+    <file name="u405-17-fs.png" crc="3904444555" ref="register"/>
+  </folder>
+  <file name="index.html" crc="4140146797" seo="true" mt="1479992170016" redirect="true"/>
+  <file name="login.html" crc="3949466699" seo="true" mt="1479939200616" redirect="false"/>
+  <file name="register.html" crc="216071756" seo="true" mt="1480449681794" redirect="true"/>
+  <file name="konten-toko.html" crc="3937185136" seo="true" mt="1479940697341" redirect="false"/>
+</manifest>

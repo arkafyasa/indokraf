@@ -1,0 +1,4 @@
+<?php
+	$judul = "";
+	$pengarang = "";
+	$email = "";
